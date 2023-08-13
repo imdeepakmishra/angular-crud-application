@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Deepak",
+      "lastName": "Mishra",
+      "dob": "2023-07-31T18:30:00.000Z",
+      "email": "deepakm@nseit.com",
+      "gender": "male",
+      "company": "NSEIT",
+      "education": "Graduate",
+      "experience": 4,
+      "package": 10,
+      "id": 1
+    },
+    {
+      "firstName": "Saili",
+      "lastName": "Bakalkar",
+      "dob": "2023-08-01T18:30:00.000Z",
+      "email": "sailib@nseit.com",
+      "gender": "female",
+      "company": "NSEIT",
+      "education": "Graduate",
+      "experience": 3.9,
+      "package": 10,
+      "id": 2
+    },
+    {
+      "firstName": "Kamal",
+      "lastName": "Jain",
+      "dob": "2023-08-07T18:30:00.000Z",
+      "email": "kjain@nseit.com",
+      "gender": "male",
+      "company": "NSEIT",
+      "education": "Post Graduate",
+      "experience": 15,
+      "package": 25,
+      "id": 3
+    }
+  ]
+}
